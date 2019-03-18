@@ -1,4 +1,6 @@
 # sketchy_password_generator
+Mitchell / Isthmus Feb 2019
+
 Short and sweet bash script to make passwords from sha256 sums. Not audited, not recommended for use, not approved for internal consumption.
 
 ```
